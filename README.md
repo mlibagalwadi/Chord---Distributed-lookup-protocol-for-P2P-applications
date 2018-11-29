@@ -1,6 +1,6 @@
 # Chordsbackup
 
-**TODO: Add description**
+**REFER TO ReadMe.pdf**
 
 ## Installation
 
